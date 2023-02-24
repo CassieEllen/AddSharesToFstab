@@ -20,8 +20,7 @@ CalDrives = [
     "homes",
     "LaurieO",
     "linux",
-    "music",
-    "NetBackup", "photo", "video", "web", "web_packages"
+    "music", "NetBackup", "photo", "video", "web", "web_packages"
 ]
 
 Buffalo = [
