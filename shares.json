@@ -1,0 +1,21 @@
+{
+    "buffalo": [
+	    "Music",
+	    "Cassie-Windows",
+	    "Cassie-Linux",
+	    "Cassie-Backup",
+	    "Cassie",
+	    "cenicol",
+	    "Shared"
+    ],
+    "synology": [
+	    "Cassie_Windows",
+        "homes",
+        "LaurieO",
+        "linux",
+        "music",
+        "web",
+        "web_packages",
+        "home"
+     ]
+}
